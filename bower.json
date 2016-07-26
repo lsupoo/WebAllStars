@@ -1,0 +1,17 @@
+{
+  "name": "belatrix-web-connect",
+  "description": "web application to connect collaborators in a great company",
+  "main": "index.js",
+  "authors": [
+    "belatrix"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/belatrix/WebAllStars",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
