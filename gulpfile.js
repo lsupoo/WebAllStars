@@ -4,7 +4,7 @@ var gulp = require('gulp');
 var server = require('gulp-server-livereload');
  
 gulp.task('server', function() {
-  gulp.src('source/**')
+  gulp.src('./**')
     .pipe(server({
       livereload: true,
       directoryListing: false	,
